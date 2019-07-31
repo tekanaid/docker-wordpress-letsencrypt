@@ -1,3 +1,7 @@
+# My Notes:
+
+Follow instructions outlined here, they're pretty good.
+
 # Using Wordpress with SSL enabled integrated with NGINX proxy and autorenew LetsEncrypt certificates
 
 ![wordpress-docker-letsencrypt](https://github.com/evertramos/images/raw/master/wordpress.jpg)
